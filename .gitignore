@@ -1,7 +1,14 @@
 # Other Java Projects
+SpringBootProjects/
 bootjpa/
 demo/
 spring-in-action-5-samples/
 spring_security/
 springboot/
 taco-cloud/
+
+# Mac Finder
+.DS_Store
+
+# git ignore
+.gitignore
