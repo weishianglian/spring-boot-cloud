@@ -14,4 +14,5 @@
 
 Reference: 
 >* [30天從零開始 使用 Spring Boot 跟 Spring Cloud 建構完整微服務架構 系列](https://ithelp.ithome.com.tw/users/20107338/ironman/1445)
+>* [30天學習Spring MVC](https://ithelp.ithome.com.tw/users/20107812/ironman/1538)
 >* [Learn Spring and Spring Boot – 10x Productive Java Development](https://learning.oreilly.com/videos/learn-spring-and/9781838648657/)
