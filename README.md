@@ -1,5 +1,7 @@
 # Spring Boot and Spring Cloud Implementation
-
+1. Create a simple REST controller
+2. Create a REST service from database with following libraries: Lombok, JPA and H2
+3. Create a REST repositories resource to build a RESTful service automatically
 
 ## Spring Ecosystem (commonly used)
 1. Spring Data

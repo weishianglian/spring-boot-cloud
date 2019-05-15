@@ -18,7 +18,7 @@ public class CloudApplication {
     @RestController
     class SimpleController {
 
-        @GetMapping
+        @GetMapping("/hello")
         public Map hello() {
             Map<String, String> map = new HashMap<>();
             map.put("say", "Hello!");
